@@ -1,0 +1,1424 @@
+{
+    "responses": [
+        {
+            "fullTextAnnotation": {
+                "pages": [
+                    {
+                        "blocks": [
+                            {
+                                "blockType": "TEXT",
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 570,
+                                            "y": 66
+                                        },
+                                        {
+                                            "x": 665,
+                                            "y": 68
+                                        },
+                                        {
+                                            "x": 665,
+                                            "y": 79
+                                        },
+                                        {
+                                            "x": 570,
+                                            "y": 77
+                                        }
+                                    ]
+                                },
+                                "paragraphs": [
+                                    {
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 570,
+                                                    "y": 66
+                                                },
+                                                {
+                                                    "x": 665,
+                                                    "y": 68
+                                                },
+                                                {
+                                                    "x": 665,
+                                                    "y": 79
+                                                },
+                                                {
+                                                    "x": 570,
+                                                    "y": 77
+                                                }
+                                            ]
+                                        },
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "ja"
+                                                }
+                                            ]
+                                        },
+                                        "words": [
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 570,
+                                                            "y": 67
+                                                        },
+                                                        {
+                                                            "x": 589,
+                                                            "y": 67
+                                                        },
+                                                        {
+                                                            "x": 589,
+                                                            "y": 76
+                                                        },
+                                                        {
+                                                            "x": 570,
+                                                            "y": 76
+                                                        }
+                                                    ]
+                                                },
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ja"
+                                                        }
+                                                    ]
+                                                },
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 570,
+                                                                    "y": 67
+                                                                },
+                                                                {
+                                                                    "x": 578,
+                                                                    "y": 67
+                                                                },
+                                                                {
+                                                                    "x": 578,
+                                                                    "y": 76
+                                                                },
+                                                                {
+                                                                    "x": 570,
+                                                                    "y": 76
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "株"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 581,
+                                                                    "y": 68
+                                                                },
+                                                                {
+                                                                    "x": 589,
+                                                                    "y": 68
+                                                                },
+                                                                {
+                                                                    "x": 589,
+                                                                    "y": 76
+                                                                },
+                                                                {
+                                                                    "x": 581,
+                                                                    "y": 76
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "式"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 592,
+                                                            "y": 67
+                                                        },
+                                                        {
+                                                            "x": 612,
+                                                            "y": 67
+                                                        },
+                                                        {
+                                                            "x": 612,
+                                                            "y": 77
+                                                        },
+                                                        {
+                                                            "x": 592,
+                                                            "y": 77
+                                                        }
+                                                    ]
+                                                },
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "zh-Hant"
+                                                        }
+                                                    ]
+                                                },
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 592,
+                                                                    "y": 67
+                                                                },
+                                                                {
+                                                                    "x": 601,
+                                                                    "y": 67
+                                                                },
+                                                                {
+                                                                    "x": 601,
+                                                                    "y": 77
+                                                                },
+                                                                {
+                                                                    "x": 592,
+                                                                    "y": 77
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "會"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 602,
+                                                                    "y": 69
+                                                                },
+                                                                {
+                                                                    "x": 612,
+                                                                    "y": 69
+                                                                },
+                                                                {
+                                                                    "x": 612,
+                                                                    "y": 78
+                                                                },
+                                                                {
+                                                                    "x": 602,
+                                                                    "y": 78
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "社"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 616,
+                                                            "y": 68
+                                                        },
+                                                        {
+                                                            "x": 643,
+                                                            "y": 68
+                                                        },
+                                                        {
+                                                            "x": 643,
+                                                            "y": 78
+                                                        },
+                                                        {
+                                                            "x": 616,
+                                                            "y": 78
+                                                        }
+                                                    ]
+                                                },
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ja"
+                                                        }
+                                                    ]
+                                                },
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 616,
+                                                                    "y": 68
+                                                                },
+                                                                {
+                                                                    "x": 624,
+                                                                    "y": 68
+                                                                },
+                                                                {
+                                                                    "x": 624,
+                                                                    "y": 77
+                                                                },
+                                                                {
+                                                                    "x": 616,
+                                                                    "y": 77
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "テ"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 626,
+                                                                    "y": 70
+                                                                },
+                                                                {
+                                                                    "x": 634,
+                                                                    "y": 70
+                                                                },
+                                                                {
+                                                                    "x": 634,
+                                                                    "y": 78
+                                                                },
+                                                                {
+                                                                    "x": 626,
+                                                                    "y": 78
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "レ"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 634,
+                                                                    "y": 70
+                                                                },
+                                                                {
+                                                                    "x": 643,
+                                                                    "y": 70
+                                                                },
+                                                                {
+                                                                    "x": 643,
+                                                                    "y": 77
+                                                                },
+                                                                {
+                                                                    "x": 634,
+                                                                    "y": 77
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "ビ"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 646,
+                                                            "y": 68
+                                                        },
+                                                        {
+                                                            "x": 656,
+                                                            "y": 68
+                                                        },
+                                                        {
+                                                            "x": 656,
+                                                            "y": 78
+                                                        },
+                                                        {
+                                                            "x": 646,
+                                                            "y": 78
+                                                        }
+                                                    ]
+                                                },
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 646,
+                                                                    "y": 68
+                                                                },
+                                                                {
+                                                                    "x": 651,
+                                                                    "y": 68
+                                                                },
+                                                                {
+                                                                    "x": 651,
+                                                                    "y": 77
+                                                                },
+                                                                {
+                                                                    "x": 646,
+                                                                    "y": 77
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "1"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 651,
+                                                                    "y": 68
+                                                                },
+                                                                {
+                                                                    "x": 656,
+                                                                    "y": 68
+                                                                },
+                                                                {
+                                                                    "x": 656,
+                                                                    "y": 78
+                                                                },
+                                                                {
+                                                                    "x": 651,
+                                                                    "y": 78
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 657,
+                                                            "y": 69
+                                                        },
+                                                        {
+                                                            "x": 665,
+                                                            "y": 69
+                                                        },
+                                                        {
+                                                            "x": 665,
+                                                            "y": 79
+                                                        },
+                                                        {
+                                                            "x": 657,
+                                                            "y": 79
+                                                        }
+                                                    ]
+                                                },
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ja"
+                                                        }
+                                                    ]
+                                                },
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 657,
+                                                                    "y": 69
+                                                                },
+                                                                {
+                                                                    "x": 665,
+                                                                    "y": 69
+                                                                },
+                                                                {
+                                                                    "x": 665,
+                                                                    "y": 79
+                                                                },
+                                                                {
+                                                                    "x": 657,
+                                                                    "y": 79
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "EOL_SURE_SPACE"
+                                                            },
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "日"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "ja"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "blockType": "TEXT",
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 673,
+                                            "y": 191
+                                        },
+                                        {
+                                            "x": 833,
+                                            "y": 198
+                                        },
+                                        {
+                                            "x": 831,
+                                            "y": 229
+                                        },
+                                        {
+                                            "x": 672,
+                                            "y": 222
+                                        }
+                                    ]
+                                },
+                                "paragraphs": [
+                                    {
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 673,
+                                                    "y": 191
+                                                },
+                                                {
+                                                    "x": 833,
+                                                    "y": 198
+                                                },
+                                                {
+                                                    "x": 831,
+                                                    "y": 229
+                                                },
+                                                {
+                                                    "x": 672,
+                                                    "y": 222
+                                                }
+                                            ]
+                                        },
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "fil"
+                                                }
+                                            ]
+                                        },
+                                        "words": [
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 673,
+                                                            "y": 191
+                                                        },
+                                                        {
+                                                            "x": 727,
+                                                            "y": 193
+                                                        },
+                                                        {
+                                                            "x": 726,
+                                                            "y": 223
+                                                        },
+                                                        {
+                                                            "x": 672,
+                                                            "y": 221
+                                                        }
+                                                    ]
+                                                },
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "fil"
+                                                        }
+                                                    ]
+                                                },
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 673,
+                                                                    "y": 191
+                                                                },
+                                                                {
+                                                                    "x": 705,
+                                                                    "y": 192
+                                                                },
+                                                                {
+                                                                    "x": 704,
+                                                                    "y": 222
+                                                                },
+                                                                {
+                                                                    "x": 672,
+                                                                    "y": 221
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "t"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 706,
+                                                                    "y": 193
+                                                                },
+                                                                {
+                                                                    "x": 727,
+                                                                    "y": 194
+                                                                },
+                                                                {
+                                                                    "x": 726,
+                                                                    "y": 224
+                                                                },
+                                                                {
+                                                                    "x": 705,
+                                                                    "y": 223
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            },
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "v"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 738,
+                                                            "y": 194
+                                                        },
+                                                        {
+                                                            "x": 833,
+                                                            "y": 198
+                                                        },
+                                                        {
+                                                            "x": 832,
+                                                            "y": 228
+                                                        },
+                                                        {
+                                                            "x": 737,
+                                                            "y": 224
+                                                        }
+                                                    ]
+                                                },
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "fil"
+                                                        }
+                                                    ]
+                                                },
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 738,
+                                                                    "y": 194
+                                                                },
+                                                                {
+                                                                    "x": 753,
+                                                                    "y": 195
+                                                                },
+                                                                {
+                                                                    "x": 752,
+                                                                    "y": 225
+                                                                },
+                                                                {
+                                                                    "x": 737,
+                                                                    "y": 224
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "a"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 754,
+                                                                    "y": 195
+                                                                },
+                                                                {
+                                                                    "x": 775,
+                                                                    "y": 196
+                                                                },
+                                                                {
+                                                                    "x": 774,
+                                                                    "y": 226
+                                                                },
+                                                                {
+                                                                    "x": 753,
+                                                                    "y": 225
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "s"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 776,
+                                                                    "y": 196
+                                                                },
+                                                                {
+                                                                    "x": 796,
+                                                                    "y": 197
+                                                                },
+                                                                {
+                                                                    "x": 795,
+                                                                    "y": 227
+                                                                },
+                                                                {
+                                                                    "x": 775,
+                                                                    "y": 226
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "a"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 797,
+                                                                    "y": 197
+                                                                },
+                                                                {
+                                                                    "x": 817,
+                                                                    "y": 198
+                                                                },
+                                                                {
+                                                                    "x": 816,
+                                                                    "y": 228
+                                                                },
+                                                                {
+                                                                    "x": 796,
+                                                                    "y": 227
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "h"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 818,
+                                                                    "y": 198
+                                                                },
+                                                                {
+                                                                    "x": 833,
+                                                                    "y": 199
+                                                                },
+                                                                {
+                                                                    "x": 832,
+                                                                    "y": 229
+                                                                },
+                                                                {
+                                                                    "x": 817,
+                                                                    "y": 228
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "EOL_SURE_SPACE"
+                                                            },
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "i"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "fil"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "blockType": "TEXT",
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 653,
+                                            "y": 286
+                                        },
+                                        {
+                                            "x": 761,
+                                            "y": 286
+                                        },
+                                        {
+                                            "x": 761,
+                                            "y": 305
+                                        },
+                                        {
+                                            "x": 653,
+                                            "y": 305
+                                        }
+                                    ]
+                                },
+                                "paragraphs": [
+                                    {
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 653,
+                                                    "y": 286
+                                                },
+                                                {
+                                                    "x": 761,
+                                                    "y": 286
+                                                },
+                                                {
+                                                    "x": 761,
+                                                    "y": 305
+                                                },
+                                                {
+                                                    "x": 653,
+                                                    "y": 305
+                                                }
+                                            ]
+                                        },
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "ja"
+                                                }
+                                            ]
+                                        },
+                                        "words": [
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 653,
+                                                            "y": 286
+                                                        },
+                                                        {
+                                                            "x": 694,
+                                                            "y": 286
+                                                        },
+                                                        {
+                                                            "x": 694,
+                                                            "y": 304
+                                                        },
+                                                        {
+                                                            "x": 653,
+                                                            "y": 304
+                                                        }
+                                                    ]
+                                                },
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ja"
+                                                        }
+                                                    ]
+                                                },
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 653,
+                                                                    "y": 287
+                                                                },
+                                                                {
+                                                                    "x": 671,
+                                                                    "y": 287
+                                                                },
+                                                                {
+                                                                    "x": 671,
+                                                                    "y": 303
+                                                                },
+                                                                {
+                                                                    "x": 653,
+                                                                    "y": 303
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "松"
+                                                    },
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 675,
+                                                                    "y": 286
+                                                                },
+                                                                {
+                                                                    "x": 694,
+                                                                    "y": 286
+                                                                },
+                                                                {
+                                                                    "x": 694,
+                                                                    "y": 304
+                                                                },
+                                                                {
+                                                                    "x": 675,
+                                                                    "y": 304
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "SPACE"
+                                                            },
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "下"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 721,
+                                                            "y": 288
+                                                        },
+                                                        {
+                                                            "x": 739,
+                                                            "y": 288
+                                                        },
+                                                        {
+                                                            "x": 739,
+                                                            "y": 305
+                                                        },
+                                                        {
+                                                            "x": 721,
+                                                            "y": 305
+                                                        }
+                                                    ]
+                                                },
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ja"
+                                                        }
+                                                    ]
+                                                },
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 721,
+                                                                    "y": 288
+                                                                },
+                                                                {
+                                                                    "x": 739,
+                                                                    "y": 288
+                                                                },
+                                                                {
+                                                                    "x": 739,
+                                                                    "y": 305
+                                                                },
+                                                                {
+                                                                    "x": 721,
+                                                                    "y": 305
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "玄"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 743,
+                                                            "y": 288
+                                                        },
+                                                        {
+                                                            "x": 761,
+                                                            "y": 288
+                                                        },
+                                                        {
+                                                            "x": 761,
+                                                            "y": 305
+                                                        },
+                                                        {
+                                                            "x": 743,
+                                                            "y": 305
+                                                        }
+                                                    ]
+                                                },
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "zh-Hant"
+                                                        }
+                                                    ]
+                                                },
+                                                "symbols": [
+                                                    {
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 743,
+                                                                    "y": 288
+                                                                },
+                                                                {
+                                                                    "x": 761,
+                                                                    "y": 288
+                                                                },
+                                                                {
+                                                                    "x": 761,
+                                                                    "y": 305
+                                                                },
+                                                                {
+                                                                    "x": 743,
+                                                                    "y": 305
+                                                                }
+                                                            ]
+                                                        },
+                                                        "property": {
+                                                            "detectedBreak": {
+                                                                "type": "EOL_SURE_SPACE"
+                                                            },
+                                                            "detectedLanguages": [
+                                                                {
+                                                                    "languageCode": "zh-Hant"
+                                                                }
+                                                            ]
+                                                        },
+                                                        "text": "統"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "ja"
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "height": 720,
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "zh-Hant"
+                                }
+                            ]
+                        },
+                        "width": 1280
+                    }
+                ],
+                "text": "株式會社テレビ11日\ntv asahi\n松下 玄統\n"
+            },
+            "textAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 570,
+                                "y": 67
+                            },
+                            {
+                                "x": 833,
+                                "y": 67
+                            },
+                            {
+                                "x": 833,
+                                "y": 305
+                            },
+                            {
+                                "x": 570,
+                                "y": 305
+                            }
+                        ]
+                    },
+                    "description": "株式會社テレビ11日\ntv asahi\n松下 玄統\n",
+                    "locale": "zh-Hant"
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 570,
+                                "y": 67
+                            },
+                            {
+                                "x": 589,
+                                "y": 67
+                            },
+                            {
+                                "x": 589,
+                                "y": 76
+                            },
+                            {
+                                "x": 570,
+                                "y": 76
+                            }
+                        ]
+                    },
+                    "description": "株式"
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 592,
+                                "y": 67
+                            },
+                            {
+                                "x": 612,
+                                "y": 67
+                            },
+                            {
+                                "x": 612,
+                                "y": 77
+                            },
+                            {
+                                "x": 592,
+                                "y": 77
+                            }
+                        ]
+                    },
+                    "description": "會社"
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 616,
+                                "y": 68
+                            },
+                            {
+                                "x": 643,
+                                "y": 68
+                            },
+                            {
+                                "x": 643,
+                                "y": 78
+                            },
+                            {
+                                "x": 616,
+                                "y": 78
+                            }
+                        ]
+                    },
+                    "description": "テレビ"
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 646,
+                                "y": 68
+                            },
+                            {
+                                "x": 656,
+                                "y": 68
+                            },
+                            {
+                                "x": 656,
+                                "y": 78
+                            },
+                            {
+                                "x": 646,
+                                "y": 78
+                            }
+                        ]
+                    },
+                    "description": "11"
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 657,
+                                "y": 69
+                            },
+                            {
+                                "x": 665,
+                                "y": 69
+                            },
+                            {
+                                "x": 665,
+                                "y": 79
+                            },
+                            {
+                                "x": 657,
+                                "y": 79
+                            }
+                        ]
+                    },
+                    "description": "日"
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 673,
+                                "y": 191
+                            },
+                            {
+                                "x": 727,
+                                "y": 193
+                            },
+                            {
+                                "x": 726,
+                                "y": 223
+                            },
+                            {
+                                "x": 672,
+                                "y": 221
+                            }
+                        ]
+                    },
+                    "description": "tv"
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 738,
+                                "y": 194
+                            },
+                            {
+                                "x": 833,
+                                "y": 198
+                            },
+                            {
+                                "x": 832,
+                                "y": 228
+                            },
+                            {
+                                "x": 737,
+                                "y": 224
+                            }
+                        ]
+                    },
+                    "description": "asahi"
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 653,
+                                "y": 286
+                            },
+                            {
+                                "x": 694,
+                                "y": 286
+                            },
+                            {
+                                "x": 694,
+                                "y": 304
+                            },
+                            {
+                                "x": 653,
+                                "y": 304
+                            }
+                        ]
+                    },
+                    "description": "松下"
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 721,
+                                "y": 288
+                            },
+                            {
+                                "x": 739,
+                                "y": 288
+                            },
+                            {
+                                "x": 739,
+                                "y": 305
+                            },
+                            {
+                                "x": 721,
+                                "y": 305
+                            }
+                        ]
+                    },
+                    "description": "玄"
+                },
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 743,
+                                "y": 288
+                            },
+                            {
+                                "x": 761,
+                                "y": 288
+                            },
+                            {
+                                "x": 761,
+                                "y": 305
+                            },
+                            {
+                                "x": 743,
+                                "y": 305
+                            }
+                        ]
+                    },
+                    "description": "統"
+                }
+            ]
+        }
+    ]
+}
