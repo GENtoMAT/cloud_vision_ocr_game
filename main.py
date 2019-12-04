@@ -5,7 +5,7 @@ import sys
 sys.path.append("./") 
 
 import cv2
-from test_cloud_vision import text_detect
+from module.cloud_vision import text_detect
 
 def capture_camera(mirror=False, size=None):
   """Capture video from camera"""
