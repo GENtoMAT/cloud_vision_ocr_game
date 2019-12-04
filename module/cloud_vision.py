@@ -8,7 +8,7 @@ import json
 import requests
 
 ENDPOINT_URL = 'https://vision.googleapis.com/v1/images:annotate'
-API_KEY="AIzaSyD5elsVWq7Mvl_-78F9tA-0fSzzL2CuwyA"
+API_KEY=""
 FILE_NAME="img/cap.png"
 
 def text_detect(imgname=FILE_NAME):

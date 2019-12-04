@@ -1,2 +1,2 @@
 # kensyu_cloudvision_ocr
-aaa
+このリポジトリは2019年の研修として、pythonポータブル版でgoogle cloud visionを使ってゲームを作ったものである。
