@@ -8,7 +8,7 @@ import json
 import requests
 
 ENDPOINT_URL = 'https://vision.googleapis.com/v1/images:annotate'
-API_KEY="AIzaSyBagnOBM5TyRIWlp9nFXgiZf1lz-mT7NNk"
+API_KEY="AIzaSyD5elsVWq7Mvl_-78F9tA-0fSzzL2CuwyA"
 FILE_NAME="img/cap.png"
 
 def text_detect(imgname=FILE_NAME):
@@ -22,7 +22,7 @@ def text_detect(imgname=FILE_NAME):
                           'features': [{
                             #'type': 'LABEL_DETECTION',
                             'type': 'TEXT_DETECTION',
-                            'maxResults': 5
+                            #'maxResults': 5
                           }]
                         })
 
@@ -34,9 +34,15 @@ def text_detect(imgname=FILE_NAME):
   res = response.json()
   if "responses" in res:
     if "textAnnotations" in res['responses'][0]:
-      print(res['responses'][0]['textAnnotations'][0]['description'])
+      print('text found')
+      for text in res['responses'][0]['textAnnotations']:
+        print(text["description"])
+
+      #print(res['responses'][0]['textAnnotations'][0]['description'])
+      return res
     else:
       print('no text found')
+      return False
 
 if __name__ == '__main__':
   text_detect()
