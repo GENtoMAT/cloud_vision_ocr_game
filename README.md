@@ -1,2 +1,2 @@
-# このリポジトリは何ですか。
-このリポジトリは2019年のPython同好会として、pythonポータブル版でgoogle cloud visionを使ってゲームを作ったものである。
+# このリポジトリについて
+Pythonスキル獲得を目的として、pythonポータブル版でgoogle cloud visionを使って簡易的にゲームを作ったものである。
